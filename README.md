@@ -1,0 +1,1 @@
+To execute any code, `go run <file_name>`
